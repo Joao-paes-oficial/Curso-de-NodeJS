@@ -41,4 +41,3 @@ main().then((resultado) => {
 /* stdin.addListener('data', (value) => {
     console.log(`Você digitou: ${value.toString().trim()}`)
 }) */ 
-
