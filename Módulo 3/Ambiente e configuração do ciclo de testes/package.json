@@ -4,7 +4,8 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.21.1"
+    "axios": "^0.21.1",
+    "nock": "^13.0.11"
   },
   "devDependencies": {
     "mocha": "^8.3.2"

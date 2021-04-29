@@ -7,4 +7,6 @@ npm install -g mocha            //Para instalar o mocha globalmente
 
 npm install --save-dev mocha    //Para instalar o mocha como dependência de desenvolvimento
 
+npm install nock                //Para simular requisições
+
 ```
