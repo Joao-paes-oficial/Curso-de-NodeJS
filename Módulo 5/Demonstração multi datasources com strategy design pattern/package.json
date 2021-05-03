@@ -1,0 +1,6 @@
+{
+  "name": "Demonstração multi datasources com strategy design pattern",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
