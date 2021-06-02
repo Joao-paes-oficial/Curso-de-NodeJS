@@ -1,0 +1,19 @@
+{
+  "name": "Refatorando a estratégia de Postgres para multi-schemas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "tests": "mocha src/tests/*.js",
+    "tests:watch": "mocha src/tests/*.js -w"
+  },
+  "dependencies": {
+    "mongoose": "^5.12.11",
+    "pg": "^8.6.0",
+    "pg-hstore": "^2.3.3",
+    "sequelize": "^6.6.2"
+  },
+  "devDependencies": {
+    "mocha": "^8.4.0"
+  }
+}
