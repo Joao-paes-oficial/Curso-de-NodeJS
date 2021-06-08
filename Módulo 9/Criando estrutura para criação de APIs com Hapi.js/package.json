@@ -1,0 +1,20 @@
+{
+  "name": "Criando estrutura para criação de APIs com Hapi.js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "tests": "mocha src/tests/*.js",
+    "tests:watch": "mocha src/tests/*.js -w"
+  },
+  "dependencies": {
+    "hapi": "^18.1.0",
+    "mongoose": "^5.12.11",
+    "pg": "^8.6.0",
+    "pg-hstore": "^2.3.3",
+    "sequelize": "^6.6.2"
+  },
+  "devDependencies": {
+    "mocha": "^8.4.0"
+  }
+}
